@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RentACarProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RentACarProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\157ee016-a44e-4aed-b556-d3bb59eb2295.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\157ee016-a44e-4aed-b556-d3bb59eb2295.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\43762126-3c45-4191-86e0-983c4b0a945f.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\43762126-3c45-4191-86e0-983c4b0a945f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\6d0657e3-75f1-4a37-a2af-0a29400cd9bd.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\6d0657e3-75f1-4a37-a2af-0a29400cd9bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\6d4e5ac9-9c61-478e-9d68-41f109c57dfa.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\6d4e5ac9-9c61-478e-9d68-41f109c57dfa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\6fdd92fb-1464-408e-b4c7-e0071a90d381.png",
+      "PackagePath": "staticwebassets\\images\\brand\\6fdd92fb-1464-408e-b4c7-e0071a90d381.png"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\9b9ff3c1-5a41-42a9-98e3-9dfde8690b39.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\9b9ff3c1-5a41-42a9-98e3-9dfde8690b39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\b645f102-03a3-4431-bfc5-598599427021.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\b645f102-03a3-4431-bfc5-598599427021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\brand\\fbef19f7-8cc3-48f5-93be-7cbd2121a09d.jpeg",
+      "PackagePath": "staticwebassets\\images\\brand\\fbef19f7-8cc3-48f5-93be-7cbd2121a09d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\00a306ba-9a27-4bf2-aae1-b00ddd1e8544.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\00a306ba-9a27-4bf2-aae1-b00ddd1e8544.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\06cc7fca-207c-483f-99a4-43b084f7bbc8.jpeg",
+      "PackagePath": "staticwebassets\\images\\car\\06cc7fca-207c-483f-99a4-43b084f7bbc8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\1d514f16-c9a7-4611-8d30-96f231a53027.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\1d514f16-c9a7-4611-8d30-96f231a53027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\3525dc09-bac8-458a-89f4-4e1c72e0bbed.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\3525dc09-bac8-458a-89f4-4e1c72e0bbed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\3f1b7723-89af-48b7-84a7-58498153ca93.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\3f1b7723-89af-48b7-84a7-58498153ca93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\646e7b5c-0320-4fd5-b2d2-72348b4d40c2.jpeg",
+      "PackagePath": "staticwebassets\\images\\car\\646e7b5c-0320-4fd5-b2d2-72348b4d40c2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\66d412ca-ef46-4216-8daf-8fc472b4836d.png",
+      "PackagePath": "staticwebassets\\images\\car\\66d412ca-ef46-4216-8daf-8fc472b4836d.png"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\78a48540-b35e-44fb-b9d6-aed573e50e3c.jpeg",
+      "PackagePath": "staticwebassets\\images\\car\\78a48540-b35e-44fb-b9d6-aed573e50e3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\796d4c5a-aa8d-4a6d-bc2b-02dc210ac80e.jpeg",
+      "PackagePath": "staticwebassets\\images\\car\\796d4c5a-aa8d-4a6d-bc2b-02dc210ac80e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\7faade89-e2b1-48bd-a5d7-a5d88943cf1d.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\7faade89-e2b1-48bd-a5d7-a5d88943cf1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\82b64beb-1419-4cfd-89ed-9b6a77f2eb35.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\82b64beb-1419-4cfd-89ed-9b6a77f2eb35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\8b0fe2ef-fcd7-4b16-a663-2f83e452d10d.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\8b0fe2ef-fcd7-4b16-a663-2f83e452d10d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\a0b03b0a-57cb-4f71-b3c9-f63409fe29e4.jpeg",
+      "PackagePath": "staticwebassets\\images\\car\\a0b03b0a-57cb-4f71-b3c9-f63409fe29e4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\ac38ea82-fb9c-492c-bfba-68cd248f20e1.png",
+      "PackagePath": "staticwebassets\\images\\car\\ac38ea82-fb9c-492c-bfba-68cd248f20e1.png"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\b22f6222-e115-4b50-b193-0526c785f5e7.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\b22f6222-e115-4b50-b193-0526c785f5e7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\b87abbff-6fd8-43ad-bd55-98c16e06cecc.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\b87abbff-6fd8-43ad-bd55-98c16e06cecc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\d430a90f-bb21-468f-abd5-e2ae60063f89.png",
+      "PackagePath": "staticwebassets\\images\\car\\d430a90f-bb21-468f-abd5-e2ae60063f89.png"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\eb8e0a21-70f9-405c-9dd5-99822ad7d372.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\eb8e0a21-70f9-405c-9dd5-99822ad7d372.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\empty.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\empty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\images\\car\\f20e27c5-82c9-4b9f-833c-c2e1eb046a75.jpg",
+      "PackagePath": "staticwebassets\\images\\car\\f20e27c5-82c9-4b9f-833c-c2e1eb046a75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Betül\\Desktop\\RentACarProject\\RentACarProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RentACarProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RentACarProject.props",
+      "PackagePath": "build\\RentACarProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RentACarProject.props",
+      "PackagePath": "buildMultiTargeting\\RentACarProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RentACarProject.props",
+      "PackagePath": "buildTransitive\\RentACarProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

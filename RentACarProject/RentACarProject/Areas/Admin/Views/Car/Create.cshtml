@@ -1,0 +1,76 @@
+﻿
+@model RentACarProject.Models.Car
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card p-4">
+
+    <h4>Add Car</h4>
+    <hr />
+    <p>
+        <a asp-area="Admin" asp-controller="Car" asp-action="Index" class="btn btn-primary btn-sm float-end"><i class="fa fa-arrow-circle-left"></i> Back To List</a>
+    </p>
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" asp-area="Admin" asp-controller="Car" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Image" class="control-label"></label>
+                    <input asp-for="Image" class="form-control" type="hidden" />
+                    <input asp-for="Image" class="form-control" type="file"/>
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BrandId" class="control-label"></label>
+                    <select asp-for="BrandId" class="form-control" asp-items="ViewBag.BrandId"></select>
+                    <span asp-validation-for="BrandId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Model" class="control-label"></label>
+                    <input asp-for="Model" class="form-control" />
+                    <span asp-validation-for="Model" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Year" class="control-label"></label>
+                    <input asp-for="Year" class="form-control" />
+                    <span asp-validation-for="Year" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoorNumber" class="control-label"></label>
+                    <input asp-for="DoorNumber" class="form-control" />
+                    <span asp-validation-for="DoorNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-check form-switch mb-3 mt-3">
+                    <label for="IsStatus">Status</label>
+                    <input class="form-check-input" type="checkbox" role="switch" asp-for="IsStatus" data-val="true" value="true">
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Add Car" class="btn btn-primary" />
+                </div>
+                <label class="text-warning">@TempData["Message"]</label>
+            </form>
+        </div>
+    </div>
+
+
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</div>
